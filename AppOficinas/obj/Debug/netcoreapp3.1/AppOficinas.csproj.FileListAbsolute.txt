@@ -1,0 +1,13 @@
+D:\visual_studio\AppOficinas\AppOficinas\bin\Debug\netcoreapp3.1\AppOficinas.exe
+D:\visual_studio\AppOficinas\AppOficinas\bin\Debug\netcoreapp3.1\AppOficinas.deps.json
+D:\visual_studio\AppOficinas\AppOficinas\bin\Debug\netcoreapp3.1\AppOficinas.runtimeconfig.json
+D:\visual_studio\AppOficinas\AppOficinas\bin\Debug\netcoreapp3.1\AppOficinas.runtimeconfig.dev.json
+D:\visual_studio\AppOficinas\AppOficinas\bin\Debug\netcoreapp3.1\AppOficinas.dll
+D:\visual_studio\AppOficinas\AppOficinas\bin\Debug\netcoreapp3.1\AppOficinas.pdb
+D:\visual_studio\AppOficinas\AppOficinas\obj\Debug\netcoreapp3.1\AppOficinas.csprojAssemblyReference.cache
+D:\visual_studio\AppOficinas\AppOficinas\obj\Debug\netcoreapp3.1\AppOficinas.AssemblyInfoInputs.cache
+D:\visual_studio\AppOficinas\AppOficinas\obj\Debug\netcoreapp3.1\AppOficinas.AssemblyInfo.cs
+D:\visual_studio\AppOficinas\AppOficinas\obj\Debug\netcoreapp3.1\AppOficinas.csproj.CoreCompileInputs.cache
+D:\visual_studio\AppOficinas\AppOficinas\obj\Debug\netcoreapp3.1\AppOficinas.dll
+D:\visual_studio\AppOficinas\AppOficinas\obj\Debug\netcoreapp3.1\AppOficinas.pdb
+D:\visual_studio\AppOficinas\AppOficinas\obj\Debug\netcoreapp3.1\AppOficinas.genruntimeconfig.cache
